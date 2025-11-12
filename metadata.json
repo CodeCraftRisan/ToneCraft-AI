@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Communication Assistant",
+  "description": "An AI-powered web application that analyzes written communication in real-time to provide tone feedback, suggest rewrites, check clarity, and generate draft replies with text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
